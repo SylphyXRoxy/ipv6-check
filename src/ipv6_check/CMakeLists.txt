@@ -31,6 +31,7 @@ if(${QT_VERSION_MAJOR} GREATER_EQUAL 6)
 
         networkinterfacepage.h networkinterfacepage.cpp
         sidemenuwidget.h sidemenuwidget.cpp
+        mainwindow.h mainwindow.cpp
 
 
     )
